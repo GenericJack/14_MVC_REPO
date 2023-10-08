@@ -1,2 +1,0 @@
-DROP DATABASE IF EXISTS vlog_db;
-CREATE DATABASE vlog_db;
